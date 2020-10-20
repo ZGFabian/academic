@@ -21,6 +21,10 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
+# Setup for github: gh-pages
+# https://gohugo.io/hosting-and-deployment/hosting-on-github/
+publishDir = "docs"
+
 # Get last modified date for content from Git?
 enableGitInfo = false
 
